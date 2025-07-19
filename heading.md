@@ -169,3 +169,9 @@ Master-level concepts:
 - **Hybrid Cloud Architectures**
 - **API Rate Limiting across Federated Services**
 - **Real-Time Collaborative Systems (e.g., Google Docs)**
+
+
+=============================
+https://github.com/donnemartin/system-design-primer
+
+===================================
